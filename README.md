@@ -123,36 +123,7 @@ Projekt obejmuje cały proces analityczny:
 
 Dzięki temu raport nie ogranicza się jedynie do prezentacji danych, ale pokazuje cały proces przygotowania analizy w Power BI.
 
----
 
-## 💡 Umiejętności zaprezentowane w projekcie
-
-- Data Analysis
-- Data Cleaning
-- Data Transformation
-- Data Modeling
-- DAX
-- Power Query
-- KPI Development
-- Data Visualization
-- Dashboard Design
-- Interactive Reporting
-- Business Intelligence
-
----
-
-## 📁 Zawartość repozytorium
-
-```text
-📁 screenshots
-   ├── Kickstarter_początkowa.png
-   ├── Kickstarter_raport.png
-   ├── Model_danych.png
-   ├── Zakładka_games.png
-   └── Zakładka_successful.png
-
-📄 README.md
-```
 
 ---
 
